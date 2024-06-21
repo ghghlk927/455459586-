@@ -251,7 +251,9 @@ body {
 
 .page_main-block {}
 
-.page_services {}
+.page_services {
+    position: relative;
+}
 
 .services {}
 
