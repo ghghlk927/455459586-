@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-/*обнуление*/
 *,
 *::before,
 *::after {
@@ -305,8 +303,7 @@ body {
 .item-service_text {
     color: #737373;
     line-height: 142%;
-=======
-/*обнуление*/
+}
 *,
 *::before,
 *::after {
@@ -599,6 +596,9 @@ body {
     padding: 35px;
 }
 .item-service {}
+.item-services_green{
+    background-color: #0D5C63;
+  }
 .item-service > *:not(:last-child){
     margin: 0px 0px 10px 0px;
 }
@@ -612,5 +612,4 @@ body {
 .item-service_text {
     color: #737373;
     line-height: 142%;
->>>>>>> dd3ec7fd8e649d7063f7f66e61954cecb3946f76
 }
